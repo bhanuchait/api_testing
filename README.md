@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Automation Framework with Cucumber and Rest Assured
 
 This is a robust API Test Automation Framework built using **Java**, **Cucumber**, **Rest Assured**, and **Maven**.  
@@ -105,10 +106,22 @@ Feature: Sample API validation
 ## 👤 Author
 
 Maintained and enhanced by **Bhanu Chaitanya Abbaraju**
-Made modifications from different sources in the ineternet
+Made modifications from different sources in the internet. Thanks for the all authors who inspired me. 
 
 ---
 
 ## 📄 License
 
 This project is developed as a **Proof of Concept** and is not bound to any open-source license.
+=======
+# api_testing
+This project is POC project for demo
+
+
+## 🔮 Future Enhancements
+
+- Integrate Allure or Extent Reports
+- Add data-driven tests using Excel or CSV
+- Add negative test cases and schema validation
+- Integrate Slack/Jira notifications on failure
+
